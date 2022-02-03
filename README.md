@@ -1,2 +1,2 @@
 # GANArtist
-Collection of required to generate digital art
+Collection of required codes to generate digital art
